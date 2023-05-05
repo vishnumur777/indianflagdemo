@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Unbounded;
+}
+div.flag{
+    width: 900px;
+    height: 600px;
+    margin: 30px;
+    margin-left: 150px;
+}
+div.saffron{
+    height: 200px;
+    background-color: orangered;
+}
+div.white{
+    height: 200px;
+    background-color: white;
+}
+.chakra img{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6px;
+}
+div.green{
+    height: 200px;
+    background-color: green;
+}
