@@ -12,7 +12,7 @@ div.flag{
     width: 900px;
     height: 600px;
     margin: 30px;
-    margin-left: auto;
+    justify-content: center;
 }
 div.saffron{
     height: 200px;
