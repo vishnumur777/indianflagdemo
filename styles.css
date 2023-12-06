@@ -9,7 +9,7 @@ h1{
     font-family: Unbounded;
 }
 div.flag{
-    width: 900px;
+    width: auto;
     height: 600px;
     margin: 30px;
     justify-content: center;
